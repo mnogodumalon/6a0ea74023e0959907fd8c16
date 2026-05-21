@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "forms": [
+    {
+      "entity": "hallo_welt",
+      "app_id": "6a0ea72cfca3318f4d95187a",
+      "path": "/rest/apps/6a0ea72cfca3318f4d95187a/records",
+      "allowed_fields": [
+        "vorname",
+        "nachname",
+        "nachricht"
+      ],
+      "pow": true,
+      "pow_difficulty": 50000,
+      "title": "Hallo Welt — Form"
+    }
+  ]
+}

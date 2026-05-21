@@ -1,0 +1,10 @@
+{
+  "entities": {
+    "Hallo Welt": {
+      "placeholders_set": 3,
+      "defaults_keys": [],
+      "computed_keys": [],
+      "reason": "Reine Textform ohne Numerik, Lookups oder berechenbare Abhängigkeiten — keine Defaults oder Formeln nötig"
+    }
+  }
+}
